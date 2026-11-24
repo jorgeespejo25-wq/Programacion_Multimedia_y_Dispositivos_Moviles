@@ -1,0 +1,8 @@
+com.example.gestorpersonaldetareas.app-pngs-0 C:\Users\jorge\AndroidStudioProjects\Programacion_Multimedia_y_Dispositivos_Moviles\PracticaTrimestral\GestorPersonalDeTareas\app\build\generated\res\pngs\debug
+com.example.gestorpersonaldetareas.app-updated_navigation_xml-1 C:\Users\jorge\AndroidStudioProjects\Programacion_Multimedia_y_Dispositivos_Moviles\PracticaTrimestral\GestorPersonalDeTareas\app\build\generated\updated_navigation_xml\debug
+com.example.gestorpersonaldetareas.app-packageDebugResources-2 C:\Users\jorge\AndroidStudioProjects\Programacion_Multimedia_y_Dispositivos_Moviles\PracticaTrimestral\GestorPersonalDeTareas\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.gestorpersonaldetareas.app-packageDebugResources-3 C:\Users\jorge\AndroidStudioProjects\Programacion_Multimedia_y_Dispositivos_Moviles\PracticaTrimestral\GestorPersonalDeTareas\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.gestorpersonaldetareas.app-debug-4 C:\Users\jorge\AndroidStudioProjects\Programacion_Multimedia_y_Dispositivos_Moviles\PracticaTrimestral\GestorPersonalDeTareas\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.gestorpersonaldetareas.app-debug-5 C:\Users\jorge\AndroidStudioProjects\Programacion_Multimedia_y_Dispositivos_Moviles\PracticaTrimestral\GestorPersonalDeTareas\app\src\debug\res
+com.example.gestorpersonaldetareas.app-main-6 C:\Users\jorge\AndroidStudioProjects\Programacion_Multimedia_y_Dispositivos_Moviles\PracticaTrimestral\GestorPersonalDeTareas\app\src\main\res
+gradleHome-0 C:\Users\jorge\.gradle
