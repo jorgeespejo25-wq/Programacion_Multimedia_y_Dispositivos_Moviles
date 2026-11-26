@@ -4,8 +4,8 @@
 /local.properties
 /.idea/
 .DS_Store
-/build/
-/app/build/
+# Ignora la carpeta build en cualquier nivel de subdirectorio
+**/build/
 /captures/
 .externalNativeBuild/
 .cxx/
