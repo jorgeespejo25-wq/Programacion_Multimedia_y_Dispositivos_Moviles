@@ -1,0 +1,16 @@
+# Archivos generados y de compilación (causantes del error)
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Archivos de usuario y configuración local
+*.jks
+*.keystore
+google-services.json
